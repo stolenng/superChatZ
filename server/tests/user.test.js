@@ -19,8 +19,8 @@ after((done) => {
 
 describe('## User APIs', () => {
   let user = {
-    username: 'KK123',
-    mobileNumber: '1234567890'
+    username: 'jmar777',
+    mobileNumber: 'Password123'
   };
 
   describe('# POST /api/users', () => {
